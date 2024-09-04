@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bima+Dharma+Yahya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+guys!+👋;+I'm+Bima+Dharma+Yahya!;" />
 </h1>
 
 <h3 align="center">As an Information Systems student at Gunadarma University, I possess skills in website development, front-end development, UI/UX design, and data analytics. I am active in student organizations, managing social media, and creating digital designs. I am committed to continuously deepening my knowledge and skills in IT, and I am eager to seek collaborative experiences to apply my expertise.</h3>

@@ -10,9 +10,9 @@
 
 💻 I’m an **Information Systems** student
 
-🌱 I’m currently learning front-end development, React.js, UI/UX, PHP
+🌱 I’m currently learning **front-end development, React.js, UI/UX, PHP**
 
-💼 Check out my portfolio: https://linktr.ee/bimadharma
+💼 Check out my portfolio: **https://linktr.ee/bimadharma**
  </div>
  
 <div align="center"> 

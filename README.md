@@ -4,9 +4,10 @@
 
 <h3 align="center">As an Information Systems student at Gunadarma University, I possess skills in website development, front-end development, UI/UX design, and data analytics. I am active in student organizations, managing social media, and creating digital designs. I am committed to continuously deepening my knowledge and skills in IT, and I am eager to seek collaborative experiences to apply my expertise.</h3>
 
-<br/>
+<br>
 
-<div align="center">
+<img align="right" alt="" width="190" height="200" src="bima-foto.jpg">
+<div align="lift">
 
 💻 I’m an **Information Systems** student
 
@@ -15,21 +16,22 @@
 💼 Check out my portfolio: **https://linktr.ee/bimadharma**
  </div>
  
-<div align="center"> 
+<div align="lift"> 
   <a href="mailto:bimadharmayahya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="http://linkedin.com/in/bima-dharma-yahya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  <a href="https://github.com/bimadharma" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> 
+    <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white"/> 
 </a>
 <a href="https://www.instagram.com/bimadharmayahyaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
 
+<br>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

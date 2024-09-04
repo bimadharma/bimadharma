@@ -15,6 +15,8 @@
 
 💼 Check out my portfolio: **https://linktr.ee/bimadharma**
  </div>
+
+ <br>
  
 <div align="lift"> 
   <a href="mailto:bimadharmayahya@gmail.com">

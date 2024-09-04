@@ -25,7 +25,7 @@
  <a href="https://github.com/bimadharma" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> 
 </a>
-<a href="https://www.instagram.com/ybimadharmayahyaa" target="_blank">
+<a href="https://www.instagram.com/bimadharmayahyaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
 </a>
 </div>

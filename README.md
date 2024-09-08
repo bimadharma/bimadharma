@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" alt="" width="190" height="200" src="bima-foto.jpg">
+<img align="right" alt="" width="200" height="200" src="bima-foto.jpg">
 <div align="lift">
 
 💻 I’m an **Information Systems** student
